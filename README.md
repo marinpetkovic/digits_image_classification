@@ -11,3 +11,5 @@ Table of contents:
 3. Linear Regression
 4. Neural Network (MLPClassifier)
 5. Convolutional Neural Network
+
+We used Jupyter notebook in google.colab.
