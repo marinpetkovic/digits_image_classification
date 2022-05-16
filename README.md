@@ -6,7 +6,7 @@ The images are in the format 16x16 greyscale normalized float numbers.
 
 Table of contents:
 
-1. Loading the data
+1. Data Loading
 2. K Nearest Neighbor
 3. Linear Regression
 4. Neural Network (MLPClassifier)
